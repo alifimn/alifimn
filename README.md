@@ -3,10 +3,10 @@
 I like sleep and playing game
 
 <details>
-<summary>⚡️ Learning :</summary>
-<br /> <br />
+<summary> Learning :</summary>
+<br />
 - Html <br />
 - Css  <br />
-- Laravel  <br />
+- Laravel <br />
 - Php <br />
 </details>
