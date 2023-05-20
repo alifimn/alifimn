@@ -1,12 +1,13 @@
-### Hi ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<h2> Hi, I'm 𝓐𝓵! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>UI/UX Addict</em></p>
 
-I like sleep and playing game
+[![GitHub 𝓐𝓵](https://img.shields.io/github/followers/alifimn?label=follow&style=social)](https://github.com/alifimn)
 
-<details>
-<summary> Learning :</summary>
-<br />
-- Html <br />
-- Css  <br />
-- Laravel <br />
-- Php <br />
-</details>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const al = {
+  pronouns: "he" ,
+  code: [Javascript, HTML, CSS, Java],
+}
