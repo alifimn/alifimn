@@ -5,5 +5,5 @@
 ```javascript
 const al = {
   pronouns: "he" ,
-  code: [ HTML, CSS, Java, Javascript],
+  code: [ HTML, CSS, Java, Javascript, Flutter, Pyhton, MySQL ],
 }
