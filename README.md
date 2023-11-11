@@ -5,5 +5,5 @@
 ```javascript
 const alif = {
   pronouns: "he" ,
-  code: [ HTML, CSS, Java, Javascript, Flutter, Pyhton, MySQL ],
+  code: [ HTML, CSS, Java, Javascript, PHP, Flutter, Pyhton, MySQL ],
 }
