@@ -4,5 +4,5 @@
 
 ```javascript
 const alif = {
-  code: [ HTML, CSS, PHP, Java, Javascript, Flutter, Pyhton, MySQL ],
+  code: [ HTML, CSS, PHP, Java, Javascript, Laravel, Flutter, Pyhton, MySQL ],
 }
