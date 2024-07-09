@@ -11,6 +11,6 @@
 
 ```javascript
 const alif = {
-  code: [ HTML, CSS, PHP, Java, Javascript, Laravel, CI, Flutter, Pyhton, MySQL ],
+  code: [ HTML, CSS, PHP, CI, Java, Javascript, Laravel, Flutter, Pyhton, MySQL ],
 }
 
